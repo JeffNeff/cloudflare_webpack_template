@@ -1,6 +1,6 @@
-## 👷 `Worker-Template-That-Works` 
+## 👷 `CF_webpack_template` 
 
-This is a CloudFlare Worker template to kickstart a project that aims to use external Node modules. Its just like the one the CloudFlare documentation provides... except it works :)
+This is a CloudFlare Worker template to kickstart a project with a basic webpack deployment. 
 
 # Getting Started
 
